@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/05/17/19/57/360_F_517195733_OmTgPE2tN0uJjOMKxJRaaJRg2RL3CwG2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+#countdown{
+    margin-top: 400px;
+    margin-left: 700px;
+    font-size: 30px;
+    color:blueviolet;
+    font-family: serif;
+}
